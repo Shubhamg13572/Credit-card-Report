@@ -3,19 +3,19 @@ Credit Card Financial Dashboard: SQL data cleaning and Power BI visualization wi
 
 This repository contains a comprehensive credit card financial dashboard project developed to provide detailed insights into financial performance. The project involves the following components:
 
-Data Preparation:
+**Data Preparation:**
 
 SQL Data Cleaning: SQL scripts are used to clean and organize data from two primary tables: cc_detail (credit card transactions) and cust_detail (customer information).
 
 Data Integration: Added a 53rd week of data into the SQL database after completing initial dashboard development. The dashboard was dynamically updated in Power BI upon refreshing the data source.
 
-Dashboard Visualization:
+**Dashboard Visualization:**
 
 Power BI Reports: Interactive dashboards showcasing key metrics, including total revenue, transaction amounts, interest earned, and transaction counts.
 
 Detailed Metrics: Visualizations include card category-wise revenue, revenue by chip use, education, customer job, and more. Slicers for filtering data by weeks, quarters, card categories, gender, and income groups are included.
 
-Advanced Analysis:
+**Advanced Analysis:**
 
 DAX Calculations: Implemented DAX measures for dynamic calculations, including:
 
@@ -25,9 +25,9 @@ IncomeGroup: Segments income into Low, Med, and High.
 
 Current_week_Reveneue & Previous_week_Reveneue: Tracks weekly revenue changes.
 
-Project Insights:
+**Project Insights:**
 
-Week 53 (December 31, 2023):
+**Week 53 (December 31, 2023):**
 
 Revenue Increase: Revenue grew by 28.8% compared to the previous week.
 
@@ -35,7 +35,7 @@ Transaction Metrics: Total transaction amount and count also saw significant inc
 
 Customer Growth: There was an increase in the number of customers.
 
-Year-to-Date (YTD) Overview:
+**Year-to-Date (YTD) Overview:**
 
 Total Revenue: $57 million for the year.
 
